@@ -2,7 +2,7 @@
 - 👀 I’m interested in Wweb Development
 - 🌱 I’m currently learning Dev + java (DS)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me by contacting in gmail dask2207@gmail.com
 
 <!---
 dask2207/dask2207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
