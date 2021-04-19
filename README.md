@@ -1,8 +1,8 @@
 - 👋 Hi, I’m dask@2207
-- 👀 I’m interested in Wweb Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Dev + java (DS)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me by contacting in gmail dask2207@gmail.com
+- 📫 How to reach me 
 
 <!---
 dask2207/dask2207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
